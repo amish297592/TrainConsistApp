@@ -5,7 +5,7 @@ public class TrainUC5 {
 
     public static void main(String[] args) {
 
-        System.out.println("=== Train Consist Management App ===");
+        System.out.println("=== Train  Consist Management App ===");
 
         // Create LinkedHashSet for train formation
         Set<String> trainFormation = new LinkedHashSet<>();
