@@ -5,7 +5,7 @@ public class TrainUC2 {
 
     public static void main(String[] args) {
 
-        System.out.println("=== Train Consist Management App ===");
+        System.out.println("=== Train Consist  Management App ===");
 
         // Create ArrayList for Passenger Bogies
         List<String> passengerBogies = new ArrayList<>();
