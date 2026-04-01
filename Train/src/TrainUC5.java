@@ -16,8 +16,7 @@ public class TrainUC5 {
         trainFormation.add("Cargo");
         trainFormation.add("Guard");
 
-        // Attempt to add duplicate
-        trainFormation.add("Sleeper"); // Duplicate (ignored)
+
 
         // Display final formation
         System.out.println("\nFinal Train Formation:");
