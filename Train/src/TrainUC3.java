@@ -14,8 +14,8 @@ public class TrainUC3 {
         bogieIDs.add("BG101");
         bogieIDs.add("BG102");
         bogieIDs.add("BG103");
-        bogieIDs.add("BG101"); // Duplicate
-        bogieIDs.add("BG102"); // Duplicate
+        bogieIDs.add("BG105"); // Duplicate
+        bogieIDs.add("BG106"); // Duplicate
 
         // Display unique bogie IDs
         System.out.println("\nBogie IDs in the system:");
