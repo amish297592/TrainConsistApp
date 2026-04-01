@@ -28,7 +28,7 @@ public class TrainUC11 {
         boolean isCargoValid = cargoMatcher.matches();
 
         // Display results
-        System.out.println("\nTrain ID: " + trainID);
+        System.out.println("\nTrain  ID: " + trainID);
         System.out.println("Valid Train ID? " + isTrainValid);
 
         System.out.println("\nCargo Code: " + cargoCode);
