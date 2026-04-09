@@ -28,7 +28,7 @@ public class TrainUC19 {
 
     public static void main(String[] args) {
 
-        System.out.println("=== Train  Consist  Management App ===");
+        System.out.println("=== Train  Consist   Management App ===");
 
         // Unsorted bogie IDs
         String[] bogies = {"BG309", "BG101", "BG550", "BG205", "BG412"};
