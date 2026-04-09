@@ -21,7 +21,7 @@ public class TrainUC12 {
 
     public static void main(String[] args) {
 
-        System.out.println("=== Train Consist Management App ===");
+        System.out.println("=== Train Consist  Management App ===");
 
         // Create goods bogie list
         List<GoodsBogie> bogies = new ArrayList<>();
