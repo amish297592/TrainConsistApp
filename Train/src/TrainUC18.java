@@ -16,7 +16,7 @@ public class TrainUC18 {
 
     public static void main(String[] args) {
 
-        System.out.println("=== Train Consist  Management App ===");
+        System.out.println("=== Train Consist   Management App ===");
 
         // Array of bogie IDs
         String[] bogies = {"BG101", "BG205", "BG309", "BG412", "BG550"};
