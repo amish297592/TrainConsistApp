@@ -7,7 +7,7 @@ public class TrainUC20 {
 
         // Fail-fast validation
         if (bogies == null || bogies.length == 0) {
-            throw new IllegalStateException("Cannot perform search: Train consist is empty");
+            throw new IllegalStateException("Cannot  perform search: Train consist is empty");
         }
 
         // Linear Search (can also use binary if sorted)
